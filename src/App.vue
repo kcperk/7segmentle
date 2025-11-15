@@ -426,7 +426,7 @@ input { padding: 0.4rem; text-align: center }
 .keypad button { background: #0b1220; border: 1px solid #2b3445; color: #e6eef8; padding: 6px; border-radius: 6px; cursor: pointer; display:flex; align-items:center; justify-content:center }
 .keypad button:disabled { opacity: 0.5; cursor: not-allowed }
 .keypad .zero-row { grid-column: 1 / -1; display:flex; justify-content:center }
-.keypad .zero { width: 56px }
+.keypad .zero { width: 57px }
 
 /* ensure the inline SVGs fit nicely */
 .keypad button svg { display: block }
